@@ -8,3 +8,5 @@
 8 - git checkout -b <branch_name> - criar e mudar para nova branch
 9 - cd - acesso a diretorio
 10 - touch - criar ficheiro
+
+https://git-scm.com/cheat-sheet
